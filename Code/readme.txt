@@ -1,2 +1,3 @@
-put all filles in the same folder 
-SCHOOL.ino is the main fille.
+Τοποθετήστε όλα τα αρχεία στον ίδιο φάκελο και ονομάστε τον SCHOOL.
+Το main αρχείο είναι το SCHOOL.ino
+Συμπεριλάβατε τις βιβλιοθήκες που βρίσκονται στον φάκελο
