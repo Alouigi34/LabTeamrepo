@@ -15,5 +15,7 @@ Project for arduino competition
 
 Περιηγηθείτε: 
 Στο φάκελο Docs είναι τα αρχεία odt 
+
 Στο φακελο code οι κώδικες
+
 και στον φάκελο Blueprints είναι οι εικόνες και το κύκλωμα που σχεδιάσαμε στο fritzing!
