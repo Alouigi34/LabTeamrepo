@@ -14,8 +14,13 @@ Project for arduino competition
 - 1 breadboard και τα καλώδια για να τα ενώσουμε όλα μαζί 
 
 Περιηγηθείτε: 
+
 Στο φάκελο Docs είναι τα αρχεία odt 
 
 Στο φακελο code οι κώδικες
 
 και στον φάκελο Blueprints είναι οι εικόνες και το κύκλωμα που σχεδιάσαμε στο fritzing!
+
+Ο σύνδεσμος μας στο robotics.ellak:
+
+https://robotics.ellak.gr/robotics_participant/metrisi-sinthikon-zois/
